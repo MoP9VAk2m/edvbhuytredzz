@@ -1,13 +1,13 @@
 {
-  "name": "wsftghgjklk",
-  "description": "wsftghgjklk",
+  "name": "随便",
+  "description": "随便",
   "keywords": [
-    "wsftghgjklk"
+    "随便"
   ],
   "env": {
     "PROTOCOL": {
       "description": "协议VMess或VLESS，请填小写的vmess或vless",
-      "value": "vless",
+      "value": "vmess",
       "required": true
     },
     "UUID": {
@@ -17,7 +17,7 @@
     },
     "WS_PATH": {
       "description": "websocket路径",
-      "value": "/app",
+      "value": "/ray",
       "required": true
     }
   },
